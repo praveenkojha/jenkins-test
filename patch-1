@@ -1,1 +1,1 @@
- bat 'java -version'
+ echo 'java -version'
